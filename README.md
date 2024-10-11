@@ -6,3 +6,5 @@ Add all php code from footer.php in footer.php in your template parts in theme f
 Remember to customize style with your style.css
 
 Greetings from Genua, Italy <3
+
+made with love and riot by msdvc www.msdvc.it
